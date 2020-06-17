@@ -5,4 +5,14 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 Hola mundo}
+\f0\fs24 \cf0 Hola mundo\
+Git clone + la url de Github\
+\
+Se agrega a la carpeta el archivo con cogido en formato .md\
+\
+Se usa git status\
+\
+Se abre el archivo .md por git add + el archivo .md\
+Doy git status y ya se torna verde el archivo\
+\
+}
